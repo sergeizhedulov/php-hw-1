@@ -1,0 +1,17 @@
+{
+    "name": "serge/gb.com",
+    "autoload": {
+        "psr-4": {
+            "Serge\\GbCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Serg Zhed",
+            "email": "sergeizhedulov@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
